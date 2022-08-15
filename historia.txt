@@ -1,3 +1,4 @@
 Nombre: Jorge Irreño
 Edad: 43
-Trabajo en PUI
+Trabaja en PUI
+Estudia en Uniminuto
