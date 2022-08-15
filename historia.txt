@@ -3,3 +3,5 @@ Edad: 43
 Trabaja en PUI
 Estudia en Uniminuto
 Estudia en Platzi
+Ahora va a ser programador
+
